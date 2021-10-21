@@ -1,2 +1,2 @@
 # Calculator-UI
-Link : https://itsmehemantgauhai01.github.io/Calculator-UI/
+Link : https://iamhemantgauhai.github.io/Calculator-UI/
